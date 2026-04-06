@@ -1,0 +1,4 @@
+.venv
+.idea
+mock_crud.py
+database.db
