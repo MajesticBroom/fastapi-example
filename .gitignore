@@ -2,3 +2,4 @@
 .idea
 mock_crud.py
 database.db
+__pycache__
